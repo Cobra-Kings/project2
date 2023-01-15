@@ -1,4 +1,4 @@
-# Insert Project Name Here
+# Stream Stats
 
 ## Team Members: Cody Delatorre, Ian F. Shirley, Nicholas Seidel, Ricardo Soto-Fabela, Keyan Tabor
 
