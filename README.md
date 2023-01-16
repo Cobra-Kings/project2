@@ -5,32 +5,30 @@
 
 ### Cooperation Plan
 
-- Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.
-- Describe at least:
-  - What are the key strengths of each person on the team?
-    - Nick - process management, code structures, conflict resolution
-    - Keyan - Comedic relief, chat GPTing, and teamwork/leading
-    - Ian - Task Tracking, Project Management/Communication
-    - Cody - CSS, time management, ChatGPT
-    - Ricardo - Team player, Data science, ChatGPT
-  - How can you best utilize these strengths in the execution of your project?
-    - Nick - consult with team members about goals and blockers; aid in resolution
-    - Keyan - help the team relieve stress when working endless hours
-    - Ian - Making sure we are understanding each other’s ideas and are on the same page. Keeping track of our progress and remaining tasks.
-    - Cody - project planning
-    - Ricardo - Making sure our team needs are being met. 
-  - In which professional competencies do you each want to develop greater strength?
-    - Nick - time management, staying in scope; more creative
-    - Keyan - Public Speaking, networking, time management
-    - Ian - Craft competency: Innovation, tool proficiency
-    - Cody - Networking
-    - Ricardo - Networking, communication.
-  - Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
-    - Build a plan for the day (checklist perhaps) during a morning 10-min huddle; consider individual  strengths, divvy workload amongst team; if struggling ask for pair/team help afternoon check-n for end of day tasks and needs for the next day.  Take regularly scheduled “human time” each hour. If someone is spinning their wheels (15-min rule); speak up.
-
-**NOTE**: *Undoing, Redoing, Replacing, or otherwise steamrolling the project as an individual is considered to be unacceptable. Account for the inevitable divergence of ideas, execution tasks, and assignments of duties here.*
+- What are the key strengths of each person on the team?
+  - Nick - process management, code structures, conflict resolution
+  - Keyan - Comedic relief, chat GPTing, and teamwork/leading
+  - Ian - Task Tracking, Project Management/Communication
+  - Cody - CSS, time management, ChatGPT
+  - Ricardo - Team player, Data science, ChatGPT
+- How can you best utilize these strengths in the execution of your project?
+  - Nick - consult with team members about goals and blockers; aid in resolution
+  - Keyan - help the team relieve stress when working endless hours
+  - Ian - Making sure we are understanding each other’s ideas and are on the same page. Keeping track of our progress and remaining tasks.
+  - Cody - project planning
+  - Ricardo - Making sure our team needs are being met. 
+- In which professional competencies do you each want to develop greater strength?
+  - Nick - time management, staying in scope; more creative
+  - Keyan - Public Speaking, networking, time management
+  - Ian - Craft competency: Innovation, tool proficiency
+  - Cody - Networking
+  - Ricardo - Networking, communication.
+- Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
+  - Build a plan for the day (checklist perhaps) during a morning 10-min huddle; consider individual  strengths, divvy workload amongst team; if struggling ask for pair/team help afternoon check-n for end of day tasks and needs for the next day.  Take regularly scheduled “human time” each hour. If someone is spinning their wheels (15-min rule); speak up.
 
 ### Conflict Resolution Plan
+
+**NOTE**: *Undoing, Redoing, Replacing, or otherwise steamrolling the project as an individual is considered to be unacceptable. Account for the inevitable divergence of ideas, execution tasks, and assignments of duties here.*
 
 - What will be your group’s process to resolve conflict, when it arises?
   - Address immediately
