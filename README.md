@@ -117,3 +117,110 @@
   - How will you communicate that it’s time to merge?
     - Slack (Remo or Google Meet if we are already in there as a group)
 
+
+### Cobra Kings - Cody, Ian, Keyan, Nick, Ricardo
+# Group Project: Stream Stats
+# Begin Wireframes & Software Requirements Wireframes
+
+## User Stories
+“As a Netflix user, I want to know how much time I spent watching Is It Cake, but Netflix doesn’t have any options to do so automatically.” - Small (effort to code)
+* Feature Tasks
+1. User can see how much time spent watching show
+2. User can see which days spent watching show
+3. User can see the likelihood of which day he or she will watch a show
+* Acceptance Tests
+1. Notebook must provide reliable results by show name
+2. Limited data points must inform user that regression may be inaccurate
+
+“As a Netflix user, I want to know how much time I spend on netflix throughout the year or different intervals if possible. - Moderate (effort to code)
+* Feature Tasks
+1. User can see how much time total spent on netflix
+2. User can see how many days in a week on average they watch
+3. User can see the days most likely to watch
+* Acceptance Tests
+1. Notebook must output accumulated watch time and determine the day most likely to be watched on
+
+“As a Netflix user, I want to know the genre I watch the most ” - Small (effort to code)
+* Feature Tasks
+1. User can how much time they watch different genres
+2. User can see which genre they watch the most
+* Acceptance Tests
+1. Notebook must output different genres from netflix and their watch times
+
+“As a Netflix user, I want to get my personal data from them and be able to compare with my friends who is the biggest couch nerd. - Large (effort to code)
+* Feature Tasks
+1. I want to be able to create charts to see who watches the most anime
+2. I like to see at what time do we usually sit down and watch Netflix
+3. As a user I want to know for how long on average do we spend a day relaxing
+* Acceptance Tests
+1. Notebook must show graphs related to my tasks.
+2. Be presentable enough to tell a story to anyone looking at it.
+
+“As a Netflix user, I want to be able to look at my usage data in different ways.” - Small (effort to code)
+* Feature Tasks
+1. User can see their top 5 most-watched shows/movies.
+2. User can see what time of day they watch netflix most often.
+3. User can see all the different genres they watch and visualize the distribution.
+* Acceptance Tests
+1. Notebook must display clear visualizations of the usage data the user wants to see.
+
+## Vision
+
+Our vision is a useful Jupyter notebook that will give insight to one’s viewing history from Netflix as well as an opportunity to compare and share with others.  This detailed viewing data is not available through the app or website, only viewing history (title and date) can be viewed.  As we progress into the data-age, it’s important to be aware of what companies can infer from the data you have agreed to share with them.  We hope this will give a user some idea of what Netflix can infer about themself.
+
+## Scope (In/Out)
+
+IN - What will your product do
+The Jupyter notebook(using Kaggle) will provide a user statistics and visualizations about his or her viewing history.
+The notebook will provide both bar and pie charts.
+Users will be able to export their results and shaped data into a file.
+Stretch: Users will be able to select the colors they wish to use in visualizations
+
+OUT - What will your product not do.
+We do not intend to utilize a server or website; Kaggle has ample ability to view, share, comment, and rate on that platform.
+It will not obtain a user’s data or store any passwords
+It will not change the user data values; it will only change the type, i.e. object to date/time
+
+## Minimum Viable Product
+
+* collect user profile data in a Kaggle notebook
+* display user profile statistics for total time watched, favorite show, etc.
+* display “fancy” visualizations for various correlations/statistics
+
+Stretch
+* build a front end to display the notebook
+* compare data with others
+* provide other related stats on visual entertainment/streaming
+
+## Software Requirements
+
+### Functional Requirements
+* A user can upload their unaltered data files in .csv format
+* A user can download results of notebook
+Stretch: A user can change the color of visualizations
+
+### Data Flow
+* A user will open the notebook and will need to upload an original, unaltered  csv. with Netflix data
+* The user will then need to “run all” to generate the notebook with his or her Netflix data
+* The user can scroll through the notebook viewing data results and statistics
+
+### Non-Functional Requirements
+
+* Security
+1. The notebook will not store data publicly, nor will it save/export user data elsewhere
+* Usability
+1. The notebook will be usable to any user with an unaltered .csv from Netflix
+* Testability
+1. The notebook will be testable through the use of common structure between users
+2. The notebook will also allow rapid deployment and visualization of rendered content
+
+
+## Domain Modeling - TBD later
+Draw out the entities for your project and how they are related to each other. Determine the relationships between the functions/methods and entities of your app.
+Include in your domain model the names and data types of your entities and their properties.
+Do some research on domain modeling and create your own diagram that represents your app. Here are some helpful resources as a starting point:
+Brief introduction to Domain Modeling
+Domain Modeling
+Domain driven architecture diagram
+Include this domain model in the README.md file located in your project’s GitHub repo.
+
