@@ -120,7 +120,11 @@
 
 ### Cobra Kings - Cody, Ian, Keyan, Nick, Ricardo
 # Group Project: Stream Stats
-# Begin Wireframes & Software Requirements Wireframes
+# Begin Wireframes & Software Requirements
+
+## Wireframes
+
+![wireframe](assets/WireframeStreamStats.png)
 
 ## User Stories
 “As a Netflix user, I want to know how much time I spent watching Is It Cake, but Netflix doesn’t have any options to do so automatically.” - Small (effort to code)
