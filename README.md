@@ -1,8 +1,8 @@
 # Stream Stats
 
-## Team Members: Cody Delatorre, Ian F. Shirley, Nicholas Seidel, Ricardo Soto-Fabela, Keyan Tabor
+## [Link to live site using Kaggle](https://www.kaggle.com/enviouscodefellow/stream-stats-401-midterm/)
 
-[Link to live site using Kaggle](https://www.kaggle.com/code/keyantabor/stream-stats?scriptVersionId=116841232)
+## Team Members: Cody Delatorre, Ian F. Shirley, Nicholas Seidel, Ricardo Soto-Fabela, Keyan Tabor
 
 ### Cooperation Plan
 
